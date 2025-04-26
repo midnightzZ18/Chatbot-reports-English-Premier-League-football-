@@ -1,1 +1,2 @@
 assets/videos/demo-chatbot.mp4 filter=lfs diff=lfs merge=lfs -text
+assets/videos/demo-chatbot-video.mp4 filter=lfs diff=lfs merge=lfs -text
