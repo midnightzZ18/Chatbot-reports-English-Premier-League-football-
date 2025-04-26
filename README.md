@@ -13,7 +13,7 @@ Implemented using JavaScript on Google Apps Script and integrated with football 
 # My Project
 
 ## Demo Images
-![Chatbot Screenshot](./assets/images/)
+![Chatbot Screenshot](./assets/images/S__19390485_0.jpg)
 
 ## Demo Video
 [ดูวิดีโอการใช้งาน](./assets/videos/chatbot-demo-video.mp4)
