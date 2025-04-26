@@ -10,9 +10,8 @@ Implemented using JavaScript on Google Apps Script and integrated with football 
 - Match schedule updates
 - Chatbot UI with rich Flex messages (LINE messaging API)
 
-# My Project
-
-![Alt text](assets/images/qrcode-linechatbot.png)
+## QR CODE ADD LINE CHAT BOT
+![QR Code](assets/images/qrcode-linechatbot.png)
 
 ## Demo Images
 ![Chatbot Screenshot](./assets/images/S__19390485_0.jpg)
