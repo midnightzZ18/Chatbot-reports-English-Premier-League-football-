@@ -12,6 +12,8 @@ Implemented using JavaScript on Google Apps Script and integrated with football 
 
 # My Project
 
+![Alt text](assets/images/qrcode-linechatbot.png)
+
 ## Demo Images
 ![Chatbot Screenshot](./assets/images/S__19390485_0.jpg)
 
